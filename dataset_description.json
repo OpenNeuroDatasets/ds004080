@@ -7,7 +7,7 @@
         "Leijten F",
         "Hermes D"
     ],
-    "Acknowledgements": "Huiskamp G.J.M.",
+    "Acknowledgements": "We thank the RESPect database group (K.P.J. Braun, C.H. Ferrier, T.A. Gebbink, P.H. Gosselaar, N.E.C. van Klink, M.A. van \u2018t Klooster, J.M. Ophorst, P.C. van Rijen, E.V. Schaft, S.M.A. van der Salm, D. Sun, A. Velders and G.J.M. Zijlmans) for their contributions and help in collecting the data.",
     "HowToAcknowledge": "Demuru M., van Blooijs D., Zweiphenning W. et al 2021, A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS",
     "Funding": [
         "Alexandre Suerman Stipendium 2015",
