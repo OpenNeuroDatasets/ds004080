@@ -11,7 +11,8 @@
     "HowToAcknowledge": "Demuru M., van Blooijs D., Zweiphenning W. et al 2021, A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS",
     "Funding": [
         "Alexandre Suerman Stipendium 2015",
-        "EpilepsieNL #17-07"
+        "EpilepsieNL #17-07",
+        "National Institute of Mental Health of the National Institutes of Health (R01MH122258)"
     ],
     "ReferencesAndLinks": [
         "see HowToAcknowledge"
