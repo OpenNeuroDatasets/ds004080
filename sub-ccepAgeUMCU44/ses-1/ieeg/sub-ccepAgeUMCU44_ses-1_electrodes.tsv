@@ -23,10 +23,10 @@ IHa5	9.74774265289307	-69.0317764282227	-8.16337108612061	4.2	Platinum	AdTech	gr
 IHa6	2.83667612075806	-74.8693771362305	-1.00336301326752	4.2	Platinum	AdTech	grid	R	no	yes	yes	no	22	G_oc-temp_med-Lingual
 IHa7	2.70441198348999	-75.504020690918	11.0804872512817	4.2	Platinum	AdTech	grid	R	no	yes	yes	no	11	G_cuneus
 IHa8	2.67316746711731	-77.9258575439453	20.7101039886475	4.2	Platinum	AdTech	grid	R	no	no	yes	no	11	G_cuneus
-AH+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-ECG+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-orb+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-EMG4+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
+AH+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+ECG+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+orb+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+EMG4+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
 P01	40.1874961853027	-30.5661354064941	67.1410140991211	4.2	Platinum	AdTech	grid	R	yes	no	no	no	28	G_postcentral
 P02	43.9454002380371	-34.2997665405273	59.8727836608887	4.2	Platinum	AdTech	grid	R	yes	no	no	no	28	G_postcentral
 P03	50.7491912841797	-46.813648223877	39.4962577819824	4.2	Platinum	AdTech	grid	R	no	no	no	no	25	G_pariet_inf-Angular
@@ -59,7 +59,7 @@ P29	28.0763549804688	-59.5997924804688	48.2463798522949	4.2	Platinum	AdTech	grid
 P30	19.3274993896484	-73.7053298950195	46.7475624084473	4.2	Platinum	AdTech	grid	R	no	no	yes	no	27	G_parietal_sup
 P31	10.4298257827759	-86.3002243041992	40.2910537719727	4.2	Platinum	AdTech	grid	R	no	no	yes	no	20	G_occipital_sup
 P32	13.6005344390869	-89.6995849609375	35.0451431274414	4.2	Platinum	AdTech	grid	R	no	no	yes	no	20	G_occipital_sup
-thor+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-abdo+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-xyz+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-MKR+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
+thor+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+abdo+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+xyz+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+MKR+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
