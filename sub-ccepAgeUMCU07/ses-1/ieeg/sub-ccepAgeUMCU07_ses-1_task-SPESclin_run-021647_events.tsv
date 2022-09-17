@@ -1,26 +1,26 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-990.90966796875	2.81005859375	artefact	n/a	all	all	993.7197265625	2029383	2035138	n/a	n/a	NaN	NaN	NaN	n/a
-1157.2421875	0.25830078125	artefact	n/a	all	all	1157.50048828125	2370032	2370561	n/a	n/a	NaN	NaN	NaN	n/a
-1252.955078125	1.11767578125	artefact	n/a	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	1254.07275390625	2566052	2568341	n/a	n/a	NaN	NaN	NaN	n/a
-1253.00341796875	1.25927734375	artefact	n/a	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	1254.2626953125	2566151	2568730	n/a	n/a	NaN	NaN	NaN	n/a
-1326.32763671875	0.3251953125	artefact	n/a	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	1326.65283203125	2716319	2716985	n/a	n/a	NaN	NaN	NaN	n/a
-1326.41943359375	0.2001953125	artefact	n/a	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	1326.61962890625	2716507	2716917	n/a	n/a	NaN	NaN	NaN	n/a
-1742.0419921875	2.89306640625	artefact	n/a	all	all	1744.93505859375	3567702	3573627	n/a	n/a	NaN	NaN	NaN	n/a
-1751.53076171875	0.19140625	artefact	n/a	all	all	1751.72216796875	3587135	3587527	n/a	n/a	NaN	NaN	NaN	n/a
-1761.8447265625	55.14111328125	seizure	unknown	TOc01	TOc01,TOc02,TOc09,TOc10,TOc17,TOc18	1816.98583984375	3608258	3721187	n/a	n/a	NaN	NaN	NaN	n/a
-222.3232421875	3677.5625	stimulation	SPESclin	all	all	3899.8857421875	455318	7986966	n/a	n/a	NaN	NaN	NaN	n/a
-986.39990234375	8.52734375	eyes	opened	all	all	994.92724609375	2020147	2037611	n/a	n/a	NaN	NaN	NaN	n/a
-994.92724609375	1.236328125	eyes	closed	all	all	996.16357421875	2037611	2040143	n/a	n/a	NaN	NaN	NaN	n/a
-996.16357421875	5.9814453125	eyes	opened	all	all	1002.14501953125	2040143	2052393	n/a	n/a	NaN	NaN	NaN	n/a
-1002.14501953125	105.80029296875	eyes	closed	all	all	1107.9453125	2052393	2269072	n/a	n/a	NaN	NaN	NaN	n/a
-1107.9453125	66.291015625	eyes	opened	all	all	1174.236328125	2269072	2404836	n/a	n/a	NaN	NaN	NaN	n/a
-1174.236328125	108.78173828125	eyes	closed	all	all	1283.01806640625	2404836	2627621	n/a	n/a	NaN	NaN	NaN	n/a
-1283.01806640625	33.34521484375	eyes	opened	all	all	1316.36328125	2627621	2695912	n/a	n/a	NaN	NaN	NaN	n/a
-1316.36328125	424.16357421875	eyes	closed	all	all	1740.52685546875	2695912	3564599	n/a	n/a	NaN	NaN	NaN	n/a
-1740.52685546875	112.400390625	eyes	opened	all	all	1852.92724609375	3564599	3794795	n/a	n/a	NaN	NaN	NaN	n/a
-1852.92724609375	2047.29150390625	eyes	closed	all	all	3900.21875	3794795	7987648	n/a	n/a	NaN	NaN	NaN	n/a
-735.38134765625	250.818359375	sleep-wake transition	unknown	all	all	986.19970703125	1506061	2019737	n/a	n/a	NaN	NaN	NaN	n/a
-0.05419921875	735.27294921875	sleep	unknown	all	all	735.3271484375	111	1505950	n/a	n/a	NaN	NaN	NaN	n/a
+990.90966796875	2.81005859375	artefact	n/a	all	all	993.7197265625	2029383	2035138	n/a	n/a	n/a	n/a	n/a	n/a
+1157.2421875	0.25830078125	artefact	n/a	all	all	1157.50048828125	2370032	2370561	n/a	n/a	n/a	n/a	n/a	n/a
+1252.955078125	1.11767578125	artefact	n/a	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	1254.07275390625	2566052	2568341	n/a	n/a	n/a	n/a	n/a	n/a
+1253.00341796875	1.25927734375	artefact	n/a	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	1254.2626953125	2566151	2568730	n/a	n/a	n/a	n/a	n/a	n/a
+1326.32763671875	0.3251953125	artefact	n/a	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	LOc1,LOc2,LOc3,LOc4,LOc5,LOc6,LOc7,LOc8,sOc1,sOc2,sOc3,sOc4,sOc5,sOc6,sOc7,sOc8,sTa1,sTa2,sTa3,sTa4,sTa5,sTa6,sTa7,sTa8	1326.65283203125	2716319	2716985	n/a	n/a	n/a	n/a	n/a	n/a
+1326.41943359375	0.2001953125	artefact	n/a	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	sTv1,sTv2,sTv3,sTv4,sTv5,sTv6,sTv7,sTv8,vT1,vT2,vT3,vT4,vT5,vT6,vT7,vT8,T01,T02,T03,T04,T05,T06,T07,T08	1326.61962890625	2716507	2716917	n/a	n/a	n/a	n/a	n/a	n/a
+1742.0419921875	2.89306640625	artefact	n/a	all	all	1744.93505859375	3567702	3573627	n/a	n/a	n/a	n/a	n/a	n/a
+1751.53076171875	0.19140625	artefact	n/a	all	all	1751.72216796875	3587135	3587527	n/a	n/a	n/a	n/a	n/a	n/a
+1761.8447265625	55.14111328125	seizure	unknown	TOc01	TOc01,TOc02,TOc09,TOc10,TOc17,TOc18	1816.98583984375	3608258	3721187	n/a	n/a	n/a	n/a	n/a	n/a
+222.3232421875	3677.5625	stimulation	SPESclin	all	all	3899.8857421875	455318	7986966	n/a	n/a	n/a	n/a	n/a	n/a
+986.39990234375	8.52734375	eyes	opened	all	all	994.92724609375	2020147	2037611	n/a	n/a	n/a	n/a	n/a	n/a
+994.92724609375	1.236328125	eyes	closed	all	all	996.16357421875	2037611	2040143	n/a	n/a	n/a	n/a	n/a	n/a
+996.16357421875	5.9814453125	eyes	opened	all	all	1002.14501953125	2040143	2052393	n/a	n/a	n/a	n/a	n/a	n/a
+1002.14501953125	105.80029296875	eyes	closed	all	all	1107.9453125	2052393	2269072	n/a	n/a	n/a	n/a	n/a	n/a
+1107.9453125	66.291015625	eyes	opened	all	all	1174.236328125	2269072	2404836	n/a	n/a	n/a	n/a	n/a	n/a
+1174.236328125	108.78173828125	eyes	closed	all	all	1283.01806640625	2404836	2627621	n/a	n/a	n/a	n/a	n/a	n/a
+1283.01806640625	33.34521484375	eyes	opened	all	all	1316.36328125	2627621	2695912	n/a	n/a	n/a	n/a	n/a	n/a
+1316.36328125	424.16357421875	eyes	closed	all	all	1740.52685546875	2695912	3564599	n/a	n/a	n/a	n/a	n/a	n/a
+1740.52685546875	112.400390625	eyes	opened	all	all	1852.92724609375	3564599	3794795	n/a	n/a	n/a	n/a	n/a	n/a
+1852.92724609375	2047.29150390625	eyes	closed	all	all	3900.21875	3794795	7987648	n/a	n/a	n/a	n/a	n/a	n/a
+735.38134765625	250.818359375	sleep-wake transition	unknown	all	all	986.19970703125	1506061	2019737	n/a	n/a	n/a	n/a	n/a	n/a
+0.05419921875	735.27294921875	sleep	unknown	all	all	735.3271484375	111	1505950	n/a	n/a	n/a	n/a	n/a	n/a
 222.80126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	222.80226953125	456297	456299.048	monophasic	TOc01-TOc02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 227.80126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	227.80226953125	466537	466539.048	monophasic	TOc01-TOc02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 232.80126953125	0.001	electrical_stimulation	SPESclin	n/a	n/a	232.80226953125	476777	476779.048	monophasic	TOc01-TOc02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
