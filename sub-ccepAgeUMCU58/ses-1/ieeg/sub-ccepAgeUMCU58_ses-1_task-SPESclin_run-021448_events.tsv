@@ -1,17 +1,17 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-20.041015625	1.181640625	artefact	n/a	all	all	21.22265625	41044	43464	n/a	n/a	NaN	NaN	NaN	n/a
-738.44580078125	0.78515625	artefact	n/a	all	all	739.23095703125	1512337	1513945	n/a	n/a	NaN	NaN	NaN	n/a
-740.69482421875	0.97607421875	artefact	n/a	all	all	741.6708984375	1516943	1518942	n/a	n/a	NaN	NaN	NaN	n/a
-1003.70849609375	0.904296875	artefact	n/a	all	all	1004.61279296875	2055595	2057447	n/a	n/a	NaN	NaN	NaN	n/a
-1113.0078125	0.388671875	artefact	n/a	all	all	1113.396484375	2279440	2280236	n/a	n/a	NaN	NaN	NaN	n/a
-1218.9169921875	0.54541015625	artefact	n/a	all	all	1219.46240234375	2496342	2497459	n/a	n/a	NaN	NaN	NaN	n/a
-1516.61962890625	4.89501953125	artefact	n/a	all	all	1521.5146484375	3106037	3116062	n/a	n/a	NaN	NaN	NaN	n/a
-1578.93359375	13.16552734375	artefact	n/a	all	all	1592.09912109375	3233656	3260619	n/a	n/a	NaN	NaN	NaN	n/a
-15.818359375	1876.29345703125	stimulation	SPESclin	all	all	1892.11181640625	32396	3875045	n/a	n/a	NaN	NaN	NaN	n/a
-0.53466796875	195.58984375	eyes	opened	all	all	196.12451171875	1095	401663	n/a	n/a	NaN	NaN	NaN	n/a
-196.12451171875	730.96435546875	eyes	closed	all	all	927.0888671875	401663	1898678	n/a	n/a	NaN	NaN	NaN	n/a
-927.0888671875	730.03564453125	eyes	opened	all	all	1657.12451171875	1898678	3393791	n/a	n/a	NaN	NaN	NaN	n/a
-1657.12451171875	238.28173828125	eyes	closed	all	all	1895.40625	3393791	3881792	n/a	n/a	NaN	NaN	NaN	n/a
+20.041015625	1.181640625	artefact	n/a	all	all	21.22265625	41044	43464	n/a	n/a	n/a	n/a	n/a	n/a
+738.44580078125	0.78515625	artefact	n/a	all	all	739.23095703125	1512337	1513945	n/a	n/a	n/a	n/a	n/a	n/a
+740.69482421875	0.97607421875	artefact	n/a	all	all	741.6708984375	1516943	1518942	n/a	n/a	n/a	n/a	n/a	n/a
+1003.70849609375	0.904296875	artefact	n/a	all	all	1004.61279296875	2055595	2057447	n/a	n/a	n/a	n/a	n/a	n/a
+1113.0078125	0.388671875	artefact	n/a	all	all	1113.396484375	2279440	2280236	n/a	n/a	n/a	n/a	n/a	n/a
+1218.9169921875	0.54541015625	artefact	n/a	all	all	1219.46240234375	2496342	2497459	n/a	n/a	n/a	n/a	n/a	n/a
+1516.61962890625	4.89501953125	artefact	n/a	all	all	1521.5146484375	3106037	3116062	n/a	n/a	n/a	n/a	n/a	n/a
+1578.93359375	13.16552734375	artefact	n/a	all	all	1592.09912109375	3233656	3260619	n/a	n/a	n/a	n/a	n/a	n/a
+15.818359375	1876.29345703125	stimulation	SPESclin	all	all	1892.11181640625	32396	3875045	n/a	n/a	n/a	n/a	n/a	n/a
+0.53466796875	195.58984375	eyes	opened	all	all	196.12451171875	1095	401663	n/a	n/a	n/a	n/a	n/a	n/a
+196.12451171875	730.96435546875	eyes	closed	all	all	927.0888671875	401663	1898678	n/a	n/a	n/a	n/a	n/a	n/a
+927.0888671875	730.03564453125	eyes	opened	all	all	1657.12451171875	1898678	3393791	n/a	n/a	n/a	n/a	n/a	n/a
+1657.12451171875	238.28173828125	eyes	closed	all	all	1895.40625	3393791	3881792	n/a	n/a	n/a	n/a	n/a	n/a
 16.42822265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	16.42922265625	33645	33647.048	monophasic	P01-P02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 21.42822265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	21.42922265625	43885	43887.048	monophasic	P01-P02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 26.42822265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	26.42922265625	54125	54127.048	monophasic	P01-P02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
