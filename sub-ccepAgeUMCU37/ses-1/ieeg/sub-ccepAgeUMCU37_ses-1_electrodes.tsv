@@ -47,8 +47,8 @@ CH13	-15.4860887527466	-19.1749095916748	74.8398284912109	4.2	Platinum	AdTech	gr
 CH14	-15.2811279296875	-14.6080760955811	66.5499572753906	4.2	Platinum	AdTech	grid	L	no	no	no	no	16	G_front_sup
 CH15	-20.2375907897949	5.51062870025635	69.654670715332	4.2	Platinum	AdTech	grid	L	no	no	no	no	16	G_front_sup
 CH16	-17.587739944458	10.7373905181885	64.0714797973633	4.2	Platinum	AdTech	grid	L	no	no	no	no	16	G_front_sup
-elB17	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-elB18	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
+elB17	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+elB18	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
 D1	-13.5182723999023	-21.2473945617676	39.3151054382324	4.2	Platinum	AdTech	depth	L	no	no	no	no	8	G&S_cingul-Mid-Post
 D2	-13.9024639129639	-20.2669353485107	41.2306060791016	4.2	Platinum	AdTech	depth	L	no	no	no	no	8	G&S_cingul-Mid-Post
 D3	-24.1444549560547	-8.87081718444824	52.1828689575195	4.2	Platinum	AdTech	depth	L	no	no	yes	no	69	S_precentral-sup-part
@@ -63,7 +63,7 @@ IH5	-4.57211017608643	28.6692810058594	58.748161315918	4.2	Platinum	AdTech	strip
 IH6	-6.26798057556152	23.6403312683105	62.6387405395508	4.2	Platinum	AdTech	strip	L	no	no	no	no	16	G_front_sup
 IH7	-8.86525058746338	12.3797760009766	68.2678833007812	4.2	Platinum	AdTech	strip	L	no	no	no	no	16	G_front_sup
 IH8	-18.954833984375	8.55652618408203	67.2791595458984	4.2	Platinum	AdTech	strip	L	yes	no	no	no	16	G_front_sup
-thor+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-abdo+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-xyz+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-MKR+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
+thor+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+abdo+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+xyz+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+MKR+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
