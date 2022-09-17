@@ -1,5 +1,5 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-2.18115234375	499.10205078125	stimulation	SPESclin	all	all	501.283203125	4467	1026628	n/a	n/a	NaN	NaN	NaN	n/a
+2.18115234375	499.10205078125	stimulation	SPESclin	all	all	501.283203125	4467	1026628	n/a	n/a	n/a	n/a	n/a	n/a
 3.25341796875	0.001	electrical_stimulation	SPESclin	n/a	n/a	3.25441796875	6663	6665.048	monophasic	HF13-HF14	0.008	0.2	0.001	n/a
 8.25390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	8.25490625	16904	16906.048	monophasic	HF13-HF14	0.008	0.2	0.001	n/a
 13.25390625	0.001	electrical_stimulation	SPESclin	n/a	n/a	13.25490625	27144	27146.048	monophasic	HF13-HF14	0.008	0.2	0.001	n/a
