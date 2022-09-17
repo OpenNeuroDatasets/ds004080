@@ -1,8 +1,8 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-19.966796875	3.9384765625	artefact	n/a	all	all	23.9052734375	40892	48958	n/a	n/a	NaN	NaN	NaN	n/a
-626.34814453125	6.49462890625	artefact	n/a	T22	T22	632.8427734375	1282761	1296062	n/a	n/a	NaN	NaN	NaN	n/a
-1788.76513671875	3.02783203125	artefact	n/a	all	all	1791.79296875	3663391	3669592	n/a	n/a	NaN	NaN	NaN	n/a
-117.978515625	2760.349609375	stimulation	SPESclin	all	all	2878.328125	241620	5894816	n/a	n/a	NaN	NaN	NaN	n/a
+19.966796875	3.9384765625	artefact	n/a	all	all	23.9052734375	40892	48958	n/a	n/a	n/a	n/a	n/a	n/a
+626.34814453125	6.49462890625	artefact	n/a	T22	T22	632.8427734375	1282761	1296062	n/a	n/a	n/a	n/a	n/a	n/a
+1788.76513671875	3.02783203125	artefact	n/a	all	all	1791.79296875	3663391	3669592	n/a	n/a	n/a	n/a	n/a	n/a
+117.978515625	2760.349609375	stimulation	SPESclin	all	all	2878.328125	241620	5894816	n/a	n/a	n/a	n/a	n/a	n/a
 119.68701171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	119.68801171875	245119	245121.048	monophasic	SOC1-SOC2	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 124.68701171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	124.68801171875	255359	255361.048	monophasic	SOC1-SOC2	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 129.68701171875	0.001	electrical_stimulation	SPESclin	n/a	n/a	129.68801171875	265599	265601.048	monophasic	SOC1-SOC2	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
