@@ -1,7 +1,7 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-36.9970703125	2385.6533203125	stimulation	SPESclin	all	all	2422.650390625	75770	4961588	n/a	n/a	NaN	NaN	NaN	n/a
-0.32080078125	14.71484375	eyes	opened	all	all	15.03564453125	657	30793	n/a	n/a	NaN	NaN	NaN	n/a
-15.03564453125	2413.90185546875	eyes	closed	all	all	2428.9375	30793	4974464	n/a	n/a	NaN	NaN	NaN	n/a
+36.9970703125	2385.6533203125	stimulation	SPESclin	all	all	2422.650390625	75770	4961588	n/a	n/a	n/a	n/a	n/a	n/a
+0.32080078125	14.71484375	eyes	opened	all	all	15.03564453125	657	30793	n/a	n/a	n/a	n/a	n/a	n/a
+15.03564453125	2413.90185546875	eyes	closed	all	all	2428.9375	30793	4974464	n/a	n/a	n/a	n/a	n/a	n/a
 45.0322265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	45.0332265625	92226	92228.048	monophasic	AT01-AT02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 50.0322265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	50.0332265625	102466	102468.048	monophasic	AT01-AT02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 55.0322265625	0.001	electrical_stimulation	SPESclin	n/a	n/a	55.0332265625	112706	112708.048	monophasic	AT01-AT02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
