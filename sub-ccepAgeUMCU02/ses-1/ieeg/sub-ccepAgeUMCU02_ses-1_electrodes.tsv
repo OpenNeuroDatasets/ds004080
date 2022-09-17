@@ -63,7 +63,7 @@ FB61	-44.0841293334961	41.0159683227539	21.4492988586426	4.2	Platinum	AdTech	gri
 FB62	-47.611946105957	33.0958824157715	11.1837244033813	4.2	Platinum	AdTech	grid	L	no	no	no	no	14	G_front_inf-Triangul
 FB63	-55.1619033813477	28.5179748535156	6.27795505523682	4.2	Platinum	AdTech	grid	L	no	no	no	no	14	G_front_inf-Triangul
 FB64	-56.2909660339355	9.0501880645752	-15.3026676177979	4.2	Platinum	AdTech	grid	L	no	no	no	no	34	G_temp_sup-Lateral
-MKR1+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
+MKR1+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
 F01	-19.8530578613281	44.9502639770508	37.0351448059082	4.2	Platinum	AdTech	grid	L	no	no	no	no	16	G_front_sup
 F02	-29.6478004455566	35.1596527099609	37.8155097961426	4.2	Platinum	AdTech	grid	L	no	no	no	no	15	G_front_middle
 F03	-37.8476791381836	34.5326042175293	31.9375190734863	4.2	Platinum	AdTech	grid	L	no	no	no	no	15	G_front_middle
@@ -88,10 +88,10 @@ vT5	-22.9844417572021	11.4151639938354	-41.2846412658691	4.2	Platinum	AdTech	str
 vT6	-26.5103054046631	14.0762386322021	-41.876651763916	4.2	Platinum	AdTech	strip	L	no	no	no	no	43	Pole_temporal
 vT7	-41.2760200500488	18.2748985290527	-36.4698257446289	4.2	Platinum	AdTech	strip	L	no	no	no	no	43	Pole_temporal
 vT8	-44.6502456665039	18.193510055542	-30.1268005371094	4.2	Platinum	AdTech	strip	L	no	no	no	no	34	G_temp_sup-Lateral
-AH+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-ECG+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-orb+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-emg1+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-emg2+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-emg3+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
-MKR2+	NaN	NaN	NaN	NaN	n/a	n/a	other	n/a	no	no	no	no	NaN	n/a
+AH+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+ECG+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+orb+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+emg1+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+emg2+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+emg3+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
+MKR2+	n/a	n/a	n/a	n/a	n/a	n/a	other	n/a	no	no	no	no	n/a	n/a
