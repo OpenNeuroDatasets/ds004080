@@ -1,9 +1,9 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-94.07958984375	1.89306640625	artefact	n/a	all	all	95.97265625	192675	196552	n/a	n/a	NaN	NaN	NaN	n/a
-112.7353515625	0.15673828125	artefact	n/a	all	all	112.89208984375	230882	231203	n/a	n/a	NaN	NaN	NaN	n/a
-139.3798828125	0.16552734375	artefact	n/a	all	all	139.54541015625	285450	285789	n/a	n/a	NaN	NaN	NaN	n/a
-0.15869140625	91.31005859375	seizure	unknown	continuation of seizure	TP13,TP14,TP15,TP17,TP18,TP19,TP20,TP21,TP22,TP23,TP26,TP27,TP28,TP29,TP30,TP31,TP33,TP34	91.46875	325	187328	n/a	n/a	NaN	NaN	NaN	n/a
-103.17626953125	217.48583984375	stimulation	SPESclin	all	all	320.662109375	211305	656716	n/a	n/a	NaN	NaN	NaN	n/a
+94.07958984375	1.89306640625	artefact	n/a	all	all	95.97265625	192675	196552	n/a	n/a	n/a	n/a	n/a	n/a
+112.7353515625	0.15673828125	artefact	n/a	all	all	112.89208984375	230882	231203	n/a	n/a	n/a	n/a	n/a	n/a
+139.3798828125	0.16552734375	artefact	n/a	all	all	139.54541015625	285450	285789	n/a	n/a	n/a	n/a	n/a	n/a
+0.15869140625	91.31005859375	seizure	unknown	continuation of seizure	TP13,TP14,TP15,TP17,TP18,TP19,TP20,TP21,TP22,TP23,TP26,TP27,TP28,TP29,TP30,TP31,TP33,TP34	91.46875	325	187328	n/a	n/a	n/a	n/a	n/a	n/a
+103.17626953125	217.48583984375	stimulation	SPESclin	all	all	320.662109375	211305	656716	n/a	n/a	n/a	n/a	n/a	n/a
 107.666015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	107.667015625	220500	220502.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
 112.666015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	112.667015625	230740	230742.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
 117.666015625	0.001	electrical_stimulation	SPESclin	n/a	n/a	117.667015625	240980	240982.048	monophasic	vT4-vT5	0.008	0.2	0.001	n/a
