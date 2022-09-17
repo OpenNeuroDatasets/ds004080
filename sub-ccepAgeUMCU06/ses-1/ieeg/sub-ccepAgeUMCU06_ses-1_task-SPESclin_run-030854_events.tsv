@@ -1,13 +1,13 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-17.02587890625	0.158203125	artefact	n/a	all	all	17.18408203125	34869	35193	n/a	n/a	NaN	NaN	NaN	n/a
-219.271484375	0.13330078125	artefact	n/a	all	all	219.40478515625	449068	449341	n/a	n/a	NaN	NaN	NaN	n/a
-1389.13818359375	0.1416015625	artefact	n/a	all	all	1389.27978515625	2844955	2845245	n/a	n/a	NaN	NaN	NaN	n/a
-1893.9267578125	0.18359375	artefact	n/a	all	all	1894.1103515625	3878762	3879138	n/a	n/a	NaN	NaN	NaN	n/a
-2766.81201171875	17.7392578125	artefact	n/a	all	all	2784.55126953125	5666431	5702761	n/a	n/a	NaN	NaN	NaN	n/a
-2843.77587890625	2.20947265625	artefact	n/a	all	all	2845.9853515625	5824053	5828578	n/a	n/a	NaN	NaN	NaN	n/a
-2848.1533203125	1.97607421875	artefact	n/a	all	all	2850.12939453125	5833018	5837065	n/a	n/a	NaN	NaN	NaN	n/a
-2755.23876953125	20.99169921875	seizure	unknown	C37,C38,C39,C40,C44,C45,C46,C47	C29,C37,C38	2776.23046875	5642729	5685720	n/a	n/a	NaN	NaN	NaN	n/a
-39.6884765625	2737.4501953125	stimulation	SPESclin	all	all	2777.138671875	81282	5687580	n/a	n/a	NaN	NaN	NaN	n/a
+17.02587890625	0.158203125	artefact	n/a	all	all	17.18408203125	34869	35193	n/a	n/a	n/a	n/a	n/a	n/a
+219.271484375	0.13330078125	artefact	n/a	all	all	219.40478515625	449068	449341	n/a	n/a	n/a	n/a	n/a	n/a
+1389.13818359375	0.1416015625	artefact	n/a	all	all	1389.27978515625	2844955	2845245	n/a	n/a	n/a	n/a	n/a	n/a
+1893.9267578125	0.18359375	artefact	n/a	all	all	1894.1103515625	3878762	3879138	n/a	n/a	n/a	n/a	n/a	n/a
+2766.81201171875	17.7392578125	artefact	n/a	all	all	2784.55126953125	5666431	5702761	n/a	n/a	n/a	n/a	n/a	n/a
+2843.77587890625	2.20947265625	artefact	n/a	all	all	2845.9853515625	5824053	5828578	n/a	n/a	n/a	n/a	n/a	n/a
+2848.1533203125	1.97607421875	artefact	n/a	all	all	2850.12939453125	5833018	5837065	n/a	n/a	n/a	n/a	n/a	n/a
+2755.23876953125	20.99169921875	seizure	unknown	C37,C38,C39,C40,C44,C45,C46,C47	C29,C37,C38	2776.23046875	5642729	5685720	n/a	n/a	n/a	n/a	n/a	n/a
+39.6884765625	2737.4501953125	stimulation	SPESclin	all	all	2777.138671875	81282	5687580	n/a	n/a	n/a	n/a	n/a	n/a
 40.4677734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	40.4687734375	82878	82880.048	monophasic	C01-C02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 45.4677734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	45.4687734375	93118	93120.048	monophasic	C01-C02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 50.4677734375	0.001	electrical_stimulation	SPESclin	n/a	n/a	50.4687734375	103358	103360.048	monophasic	C01-C02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
