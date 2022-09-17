@@ -1,5 +1,5 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-4.39990234375	1058.09521484375	stimulation	SPESclin	all	all	1062.4951171875	9011	2175990	n/a	n/a	NaN	NaN	NaN	n/a
+4.39990234375	1058.09521484375	stimulation	SPESclin	all	all	1062.4951171875	9011	2175990	n/a	n/a	n/a	n/a	n/a	n/a
 8.2568359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	8.2578359375	16910	16912.048	monophasic	sT1-sT2	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 13.2568359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	13.2578359375	27150	27152.048	monophasic	sT1-sT2	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 18.2568359375	0.001	electrical_stimulation	SPESclin	n/a	n/a	18.2578359375	37390	37392.048	monophasic	sT1-sT2	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
