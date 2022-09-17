@@ -1,19 +1,19 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-1534.5947265625	9.6201171875	artefact	n/a	all	all	1544.21484375	3142850	3162552	n/a	n/a	NaN	NaN	NaN	n/a
-1816.46337890625	3.353515625	artefact	n/a	all	all	1819.81689453125	3720117	3726985	n/a	n/a	NaN	NaN	NaN	n/a
-1822.76416015625	1.158203125	artefact	n/a	all	all	1823.92236328125	3733021	3735393	n/a	n/a	NaN	NaN	NaN	n/a
-1847.40478515625	6.49755859375	artefact	n/a	all	all	1853.90234375	3783485	3796792	n/a	n/a	NaN	NaN	NaN	n/a
-1862.8095703125	0.4052734375	artefact	n/a	all	all	1863.21484375	3815034	3815864	n/a	n/a	NaN	NaN	NaN	n/a
-1864.93896484375	1.4833984375	artefact	n/a	all	all	1866.42236328125	3819395	3822433	n/a	n/a	NaN	NaN	NaN	n/a
-1867.1982421875	1.4873046875	artefact	n/a	all	all	1868.685546875	3824022	3827068	n/a	n/a	NaN	NaN	NaN	n/a
-2026.74365234375	0.31396484375	artefact	n/a	all	all	2027.0576171875	4150771	4151414	n/a	n/a	NaN	NaN	NaN	n/a
-2389.76025390625	0.23974609375	artefact	n/a	all	all	2390	4894229	4894720	n/a	n/a	NaN	NaN	NaN	n/a
-3084.86767578125	2.75390625	artefact	n/a	all	all	3087.62158203125	6317809	6323449	n/a	n/a	NaN	NaN	NaN	n/a
-3132.3271484375	1.453125	artefact	n/a	all	all	3133.7802734375	6415006	6417982	n/a	n/a	NaN	NaN	NaN	n/a
-3135.54541015625	2.17333984375	artefact	n/a	all	all	3137.71875	6421597	6426048	n/a	n/a	NaN	NaN	NaN	n/a
-3150.46240234375	0.95068359375	artefact	n/a	all	all	3151.4130859375	6452147	6454094	n/a	n/a	NaN	NaN	NaN	n/a
-3153.33056640625	0.42138671875	artefact	n/a	all	all	3153.751953125	6458021	6458884	n/a	n/a	NaN	NaN	NaN	n/a
-13.404296875	3116.1787109375	stimulation	SPESclin	all	all	3129.5830078125	27452	6409386	n/a	n/a	NaN	NaN	NaN	n/a
+1534.5947265625	9.6201171875	artefact	n/a	all	all	1544.21484375	3142850	3162552	n/a	n/a	n/a	n/a	n/a	n/a
+1816.46337890625	3.353515625	artefact	n/a	all	all	1819.81689453125	3720117	3726985	n/a	n/a	n/a	n/a	n/a	n/a
+1822.76416015625	1.158203125	artefact	n/a	all	all	1823.92236328125	3733021	3735393	n/a	n/a	n/a	n/a	n/a	n/a
+1847.40478515625	6.49755859375	artefact	n/a	all	all	1853.90234375	3783485	3796792	n/a	n/a	n/a	n/a	n/a	n/a
+1862.8095703125	0.4052734375	artefact	n/a	all	all	1863.21484375	3815034	3815864	n/a	n/a	n/a	n/a	n/a	n/a
+1864.93896484375	1.4833984375	artefact	n/a	all	all	1866.42236328125	3819395	3822433	n/a	n/a	n/a	n/a	n/a	n/a
+1867.1982421875	1.4873046875	artefact	n/a	all	all	1868.685546875	3824022	3827068	n/a	n/a	n/a	n/a	n/a	n/a
+2026.74365234375	0.31396484375	artefact	n/a	all	all	2027.0576171875	4150771	4151414	n/a	n/a	n/a	n/a	n/a	n/a
+2389.76025390625	0.23974609375	artefact	n/a	all	all	2390	4894229	4894720	n/a	n/a	n/a	n/a	n/a	n/a
+3084.86767578125	2.75390625	artefact	n/a	all	all	3087.62158203125	6317809	6323449	n/a	n/a	n/a	n/a	n/a	n/a
+3132.3271484375	1.453125	artefact	n/a	all	all	3133.7802734375	6415006	6417982	n/a	n/a	n/a	n/a	n/a	n/a
+3135.54541015625	2.17333984375	artefact	n/a	all	all	3137.71875	6421597	6426048	n/a	n/a	n/a	n/a	n/a	n/a
+3150.46240234375	0.95068359375	artefact	n/a	all	all	3151.4130859375	6452147	6454094	n/a	n/a	n/a	n/a	n/a	n/a
+3153.33056640625	0.42138671875	artefact	n/a	all	all	3153.751953125	6458021	6458884	n/a	n/a	n/a	n/a	n/a	n/a
+13.404296875	3116.1787109375	stimulation	SPESclin	all	all	3129.5830078125	27452	6409386	n/a	n/a	n/a	n/a	n/a	n/a
 14.06884765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	14.06984765625	28813	28815.048	monophasic	T01-T02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 19.06884765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	19.06984765625	39053	39055.048	monophasic	T01-T02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 24.06884765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	24.06984765625	49293	49295.048	monophasic	T01-T02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
