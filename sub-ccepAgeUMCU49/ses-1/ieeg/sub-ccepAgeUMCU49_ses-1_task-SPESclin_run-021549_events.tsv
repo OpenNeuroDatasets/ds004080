@@ -1,10 +1,10 @@
 onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
-310.95361328125	1.111328125	artefact	n/a	all	all	312.06494140625	636833	639109	n/a	n/a	NaN	NaN	NaN	n/a
-829.93701171875	3.42529296875	artefact	n/a	all	all	833.3623046875	1699711	1706726	n/a	n/a	NaN	NaN	NaN	n/a
-1387.39501953125	0.61279296875	artefact	n/a	all	all	1388.0078125	2841385	2842640	n/a	n/a	NaN	NaN	NaN	n/a
-1427.421875	0.51513671875	artefact	n/a	all	all	1427.93701171875	2923360	2924415	n/a	n/a	NaN	NaN	NaN	n/a
-1271.18994140625	46.34716796875	seizure	unknown	HP12,HP13,C07,C15	diffuse	1317.537109375	2603397	2698316	n/a	n/a	NaN	NaN	NaN	n/a
-18.70263671875	1259.84326171875	stimulation	SPESclin	all	all	1278.5458984375	38303	2618462	n/a	n/a	NaN	NaN	NaN	n/a
+310.95361328125	1.111328125	artefact	n/a	all	all	312.06494140625	636833	639109	n/a	n/a	n/a	n/a	n/a	n/a
+829.93701171875	3.42529296875	artefact	n/a	all	all	833.3623046875	1699711	1706726	n/a	n/a	n/a	n/a	n/a	n/a
+1387.39501953125	0.61279296875	artefact	n/a	all	all	1388.0078125	2841385	2842640	n/a	n/a	n/a	n/a	n/a	n/a
+1427.421875	0.51513671875	artefact	n/a	all	all	1427.93701171875	2923360	2924415	n/a	n/a	n/a	n/a	n/a	n/a
+1271.18994140625	46.34716796875	seizure	unknown	HP12,HP13,C07,C15	diffuse	1317.537109375	2603397	2698316	n/a	n/a	n/a	n/a	n/a	n/a
+18.70263671875	1259.84326171875	stimulation	SPESclin	all	all	1278.5458984375	38303	2618462	n/a	n/a	n/a	n/a	n/a	n/a
 20.41259765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	20.41359765625	41805	41807.048	monophasic	HP01-HP02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 25.41259765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	25.41359765625	52045	52047.048	monophasic	HP01-HP02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
 30.41259765625	0.001	electrical_stimulation	SPESclin	n/a	n/a	30.41359765625	62285	62287.048	monophasic	HP01-HP02	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
