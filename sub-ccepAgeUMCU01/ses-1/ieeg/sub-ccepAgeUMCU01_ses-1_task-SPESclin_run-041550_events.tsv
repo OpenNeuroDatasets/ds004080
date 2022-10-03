@@ -99,9 +99,7 @@ onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved
 7163.701171875	0.423828125	artefact	n/a	all	all	7164.125	3667815	3668032	n/a	n/a	n/a	n/a	n/a	n/a
 7196.498046875	3.564453125	artefact	n/a	all	all	7200.0625	3684607	3686432	n/a	n/a	n/a	n/a	n/a	n/a
 1076.1484375	305.044921875	seizure	unknown	PT21,PT22,PT23,PT24,PT28,PT29,PT30	PT01,PT02,PT09,PT10,PT17,PT18,PT19,PT20,PT25,PT26,PT27,PT28	1381.193359375	550988	707171	n/a	n/a	n/a	n/a	n/a	n/a
-1069.369140625	7.822265625	stimulation	ESM	all	all	1077.19140625	547517	551522	n/a	n/a	n/a	n/a	n/a	n/a
 6745.021484375	424.56640625	stimulation	SPESclin	all	all	7169.587890625	3453451	3670829	n/a	n/a	n/a	n/a	n/a	n/a
-1070.552734375	5.05078125	electrical_stimulation	ESM	n/a	n/a	1075.603515625	548123	550709	biphasic	PT40-PT31	0.006	50	0.001	n/a
 6746.537109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	6746.538109375	3454227	3454227.512	monophasic	PT01-PT02	0.007	0.2	0.001	n/a
 6751.537109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	6751.538109375	3456787	3456787.512	monophasic	PT01-PT02	0.007	0.2	0.001	n/a
 6756.537109375	0.001	electrical_stimulation	SPESclin	n/a	n/a	6756.538109375	3459347	3459347.512	monophasic	PT01-PT02	0.007	0.2	0.001	n/a
