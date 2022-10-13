@@ -1,3 +1,8 @@
+1.0.3 2022-10-13
+  - Corrected the electrode names and channel names in run-011648 for sub-ccepAgeUMCU04 to match the other two runs
+  - Marked some channels on frontal lesion as bad (excluded) in sub-ccepAgeUMCU52
+  - Updated N1 detection to exclude bad stimulation electrodes
+  - Included distances between the native electrode positions
 1.0.2 2022-10-05
   - - Updated the essential information files (ccepData_*.mat)
   - - Removed ... entries from _channels.tsv in sub-ccepAgeUMCU57
