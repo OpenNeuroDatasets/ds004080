@@ -1,3 +1,5 @@
+1.1.1 2022-11-03
+  - Removed false trial (sub-ccepAgeUMCU07 run-021752)
 1.1.0 2022-11-03
   - Corrected type on depth electrodes
   - Removed runs with only depth electrodes or with excessive artifacts
