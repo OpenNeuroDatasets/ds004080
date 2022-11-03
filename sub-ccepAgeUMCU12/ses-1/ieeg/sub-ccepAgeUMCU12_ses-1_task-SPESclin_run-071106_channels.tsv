@@ -12,7 +12,7 @@ F10	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 F11	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 F12	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 F13	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
-F14	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+F14	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
 F15	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 F16	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 F17	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
@@ -55,9 +55,9 @@ T53	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 T54	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 T55	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 T56	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
-T57	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
-T58	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
-T59	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
+T57	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
+T58	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
+T59	ECOG	µV	468	0.15	G2	grid	2048	n/a	bad	noisy (visual assessment)
 T60	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 T61	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 T62	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
