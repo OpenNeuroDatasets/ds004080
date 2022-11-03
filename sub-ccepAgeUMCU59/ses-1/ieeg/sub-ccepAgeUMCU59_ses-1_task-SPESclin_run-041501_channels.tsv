@@ -47,22 +47,22 @@ HF13	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 HF14	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 HF15	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
 HF16	ECOG	µV	468	0.15	G2	grid	2048	n/a	good	included
-DL1	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL2	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL3	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL4	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL5	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL6	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL7	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DL8	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH1	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH2	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH3	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH4	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH5	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH6	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH7	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
-DH8	ECOG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DL8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH1	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH2	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH3	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH4	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH5	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH6	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH7	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
+DH8	SEEG	µV	468	0.15	G2	depth	2048	n/a	good	included
 thor+	OTHER	Adim.	468	0.15	thor-	other	2048	n/a	bad	not recording
 abdo+	OTHER	Adim.	468	0.15	abdo-	other	2048	n/a	bad	not recording
 xyz+	OTHER	Adim.	468	0.15	xyz-	other	2048	n/a	bad	not recording
