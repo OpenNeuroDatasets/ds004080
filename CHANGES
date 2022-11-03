@@ -4,9 +4,9 @@
   - Updated N1 detection to exclude bad stimulation electrodes
   - Included distances between the native electrode positions
 1.0.2 2022-10-05
-  - - Updated the essential information files (ccepData_*.mat)
-  - - Removed ... entries from _channels.tsv in sub-ccepAgeUMCU57
-  - - Added Yeh atlas files as sourcedata
+  - Updated the essential information files (ccepData_*.mat)
+  - Removed ... entries from _channels.tsv in sub-ccepAgeUMCU57
+  - Added Yeh atlas files as sourcedata
 1.0.1 2022-10-03
   - removed other stimuli than SPES from events file of subject 1
 1.0.0 2022-09-29
