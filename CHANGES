@@ -1,3 +1,6 @@
+1.2.0 2022-11-18
+  - Removed a run with incorrect onsets, one with rhythmic activity and one with excessive noise
+  - Removed trials with artifacts from events files
 1.1.1 2022-11-03
   - Removed false trial (sub-ccepAgeUMCU07 run-021752)
 1.1.0 2022-11-03
