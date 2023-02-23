@@ -1,4 +1,0 @@
-1.0.1 2022-10-03
-  - removed other stimuli than SPES from events file of subject 1
-1.0.0 2022-09-29
-  - resolved warning for bids compatibility
