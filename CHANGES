@@ -1,3 +1,5 @@
+1.2.1 2023-02-23
+  - updated acknowledgements in readme
 1.2.0 2022-11-18
   - Removed a run with incorrect onsets, one with rhythmic activity and one with excessive noise
   - Removed trials with artifacts from events files
