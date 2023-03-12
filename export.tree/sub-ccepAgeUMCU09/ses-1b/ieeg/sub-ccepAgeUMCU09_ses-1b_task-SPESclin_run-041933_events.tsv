@@ -1,0 +1,161 @@
+onset	duration	trial_type	sub_type	electrodes_involved_onset	electrodes_involved_offset	offset	sample_start	sample_end	electrical_stimulation_type	electrical_stimulation_site	electrical_stimulation_current	electrical_stimulation_frequency	electrical_stimulation_pulsewidth	notes
+14.1767578125	0.80126953125	artefact	n/a	all	all	14.97802734375	29034	30675	n/a	n/a	n/a	n/a	n/a	n/a
+42.6708984375	1.82958984375	artefact	n/a	all	all	44.50048828125	87390	91137	n/a	n/a	n/a	n/a	n/a	n/a
+53.9609375	1.55126953125	artefact	n/a	all	all	55.51220703125	110512	113689	n/a	n/a	n/a	n/a	n/a	n/a
+88.20361328125	2.17138671875	artefact	n/a	all	all	90.375	180641	185088	n/a	n/a	n/a	n/a	n/a	n/a
+91.5205078125	0.72705078125	artefact	n/a	all	all	92.24755859375	187434	188923	n/a	n/a	n/a	n/a	n/a	n/a
+115.2177734375	0.9951171875	artefact	n/a	all	all	116.212890625	235966	238004	n/a	n/a	n/a	n/a	n/a	n/a
+128.73974609375	0.955078125	artefact	n/a	all	all	129.69482421875	263659	265615	n/a	n/a	n/a	n/a	n/a	n/a
+135.48583984375	2.91552734375	artefact	n/a	all	all	138.4013671875	277475	283446	n/a	n/a	n/a	n/a	n/a	n/a
+152.537109375	0.81787109375	artefact	n/a	all	all	153.35498046875	312396	314071	n/a	n/a	n/a	n/a	n/a	n/a
+166.88330078125	0.84423828125	artefact	n/a	all	all	167.7275390625	341777	343506	n/a	n/a	n/a	n/a	n/a	n/a
+187.01611328125	0.48779296875	artefact	n/a	all	all	187.50390625	383009	384008	n/a	n/a	n/a	n/a	n/a	n/a
+191.2431640625	0.63330078125	artefact	n/a	all	all	191.87646484375	391666	392963	n/a	n/a	n/a	n/a	n/a	n/a
+205.9814453125	0.89501953125	artefact	n/a	all	all	206.87646484375	421850	423683	n/a	n/a	n/a	n/a	n/a	n/a
+258.611328125	1.72705078125	artefact	n/a	all	all	260.33837890625	529636	533173	n/a	n/a	n/a	n/a	n/a	n/a
+269.78662109375	1.30712890625	artefact	n/a	all	all	271.09375	552523	555200	n/a	n/a	n/a	n/a	n/a	n/a
+273.14453125	0.93505859375	artefact	n/a	all	all	274.07958984375	559400	561315	n/a	n/a	n/a	n/a	n/a	n/a
+277.19580078125	0.71142578125	artefact	n/a	all	all	277.9072265625	567697	569154	n/a	n/a	n/a	n/a	n/a	n/a
+295.71484375	2.39111328125	artefact	n/a	all	all	298.10595703125	605624	610521	n/a	n/a	n/a	n/a	n/a	n/a
+317.52001953125	0.1962890625	artefact	n/a	all	all	317.71630859375	650281	650683	n/a	n/a	n/a	n/a	n/a	n/a
+376.359375	0.53125	artefact	n/a	all	all	376.890625	770784	771872	n/a	n/a	n/a	n/a	n/a	n/a
+406.0234375	0.6533203125	artefact	n/a	all	all	406.6767578125	831536	832874	n/a	n/a	n/a	n/a	n/a	n/a
+421.490234375	1.8720703125	artefact	n/a	all	all	423.3623046875	863212	867046	n/a	n/a	n/a	n/a	n/a	n/a
+431.0458984375	0.53173828125	artefact	n/a	all	all	431.57763671875	882782	883871	n/a	n/a	n/a	n/a	n/a	n/a
+434.396484375	1.72705078125	artefact	n/a	all	all	436.12353515625	889644	893181	n/a	n/a	n/a	n/a	n/a	n/a
+457.49755859375	14.28125	artefact	n/a	all	all	471.77880859375	936955	966203	n/a	n/a	n/a	n/a	n/a	n/a
+473.865234375	1.8095703125	artefact	n/a	all	all	475.6748046875	970476	974182	n/a	n/a	n/a	n/a	n/a	n/a
+483.958984375	0.54296875	artefact	n/a	all	all	484.501953125	991148	992260	n/a	n/a	n/a	n/a	n/a	n/a
+489.6494140625	1.1962890625	artefact	n/a	all	all	490.845703125	1002802	1005252	n/a	n/a	n/a	n/a	n/a	n/a
+495.5615234375	2.9921875	artefact	n/a	all	all	498.5537109375	1014910	1021038	n/a	n/a	n/a	n/a	n/a	n/a
+502.5947265625	0.5537109375	artefact	n/a	all	all	503.1484375	1029314	1030448	n/a	n/a	n/a	n/a	n/a	n/a
+536.57958984375	0.9853515625	artefact	n/a	all	all	537.56494140625	1098915	1100933	n/a	n/a	n/a	n/a	n/a	n/a
+541.23095703125	2.0576171875	artefact	n/a	all	all	543.28857421875	1108441	1112655	n/a	n/a	n/a	n/a	n/a	n/a
+561.26416015625	0.85107421875	artefact	n/a	all	all	562.115234375	1149469	1151212	n/a	n/a	n/a	n/a	n/a	n/a
+576.04931640625	0.5703125	artefact	n/a	all	all	576.61962890625	1179749	1180917	n/a	n/a	n/a	n/a	n/a	n/a
+586.62646484375	0.6435546875	artefact	n/a	all	all	587.27001953125	1201411	1202729	n/a	n/a	n/a	n/a	n/a	n/a
+590.12353515625	0.66943359375	artefact	n/a	all	all	590.79296875	1208573	1209944	n/a	n/a	n/a	n/a	n/a	n/a
+596.318359375	2.11083984375	artefact	n/a	all	all	598.42919921875	1221260	1225583	n/a	n/a	n/a	n/a	n/a	n/a
+610.890625	1.04638671875	artefact	n/a	all	all	611.93701171875	1251104	1253247	n/a	n/a	n/a	n/a	n/a	n/a
+621.56298828125	2.43701171875	artefact	n/a	all	all	624	1272961	1277952	n/a	n/a	n/a	n/a	n/a	n/a
+627.44384765625	1.66748046875	artefact	n/a	all	all	629.111328125	1285005	1288420	n/a	n/a	n/a	n/a	n/a	n/a
+637.3466796875	133.037109375	artefact	n/a	all	all	770.3837890625	1305286	1577746	n/a	n/a	n/a	n/a	n/a	n/a
+3.50830078125	703.5458984375	stimulation	SPESclin	all	all	707.05419921875	7185	1448047	n/a	n/a	n/a	n/a	n/a	n/a
+23.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	23.7871328125	48714	48716.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+28.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	28.7871328125	58954	58956.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+33.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	33.7871328125	69194	69196.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+38.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	38.7871328125	79434	79436.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+43.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	43.7871328125	89674	89676.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+48.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	48.7871328125	99914	99916.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+53.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	53.7871328125	110154	110156.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+58.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	58.7871328125	120394	120396.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+63.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	63.7871328125	130634	130636.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+68.7861328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	68.7871328125	140874	140876.048	monophasic	C17-C18	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+74.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	74.8496328125	153290	153292.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+79.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	79.8496328125	163530	163532.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+84.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	84.8496328125	173770	173772.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+89.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	89.8496328125	184010	184012.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+94.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	94.8496328125	194250	194252.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+99.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	99.8496328125	204490	204492.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+104.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	104.8496328125	214730	214732.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+109.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	109.8496328125	224970	224972.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+114.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	114.8496328125	235210	235212.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+119.8486328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	119.8496328125	245450	245452.048	monophasic	C18-C19	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+125.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	125.91164453125	257865	257867.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+130.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	130.91164453125	268105	268107.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+135.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	135.91164453125	278345	278347.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+140.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	140.91164453125	288585	288587.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+145.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	145.91164453125	298825	298827.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+150.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	150.91164453125	309065	309067.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+155.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	155.91164453125	319305	319307.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+160.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	160.91164453125	329545	329547.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+165.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	165.91164453125	339785	339787.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+170.91064453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	170.91164453125	350025	350027.048	monophasic	C19-C20	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+176.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	176.9746328125	362442	362444.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+181.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	181.9746328125	372682	372684.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+186.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	186.9746328125	382922	382924.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+191.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	191.9746328125	393162	393164.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+196.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	196.9746328125	403402	403404.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+201.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	201.9746328125	413642	413644.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+206.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	206.9746328125	423882	423884.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+211.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	211.9746328125	434122	434124.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+216.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	216.9746328125	444362	444364.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+221.9736328125	0.001	electrical_stimulation	SPESclin	n/a	n/a	221.9746328125	454602	454604.048	monophasic	C20-C21	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+228.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	228.02785546875	466999	467001.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+233.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	233.02785546875	477239	477241.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+238.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	238.02785546875	487479	487481.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+243.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	243.02785546875	497719	497721.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+248.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	248.02785546875	507959	507961.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+253.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	253.02785546875	518199	518201.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+258.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	258.02785546875	528439	528441.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+263.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	263.02785546875	538679	538681.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+268.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	268.02785546875	548919	548921.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+273.02685546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	273.02785546875	559159	559161.048	monophasic	C21-C22	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+279.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	279.05910546875	571511	571513.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+284.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	284.05910546875	581751	581753.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+289.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	289.05910546875	591991	591993.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+294.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	294.05910546875	602231	602233.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+299.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	299.05910546875	612471	612473.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+304.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	304.05910546875	622711	622713.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+309.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	309.05910546875	632951	632953.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+314.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	314.05910546875	643191	643193.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+319.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	319.05910546875	653431	653433.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+324.05810546875	0.001	electrical_stimulation	SPESclin	n/a	n/a	324.05910546875	663671	663673.048	monophasic	C22-C23	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+330.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	330.1308828125	676106	676108.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+335.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	335.1308828125	686346	686348.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+340.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	340.1308828125	696586	696588.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+345.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	345.1308828125	706826	706828.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+350.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	350.1308828125	717066	717068.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+355.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	355.1308828125	727306	727308.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+360.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	360.1308828125	737546	737548.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+365.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	365.1308828125	747786	747788.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+370.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	370.1308828125	758026	758028.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+375.1298828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	375.1308828125	768266	768268.048	monophasic	C23-C24	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+381.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	381.45070703125	781209	781211.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+386.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	386.45070703125	791449	791451.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+391.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	391.45070703125	801689	801691.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+396.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	396.45070703125	811929	811931.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+401.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	401.45070703125	822169	822171.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+406.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	406.45070703125	832409	832411.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+411.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	411.45070703125	842649	842651.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+416.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	416.45070703125	852889	852891.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+421.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	421.45070703125	863129	863131.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+426.44970703125	0.001	electrical_stimulation	SPESclin	n/a	n/a	426.45070703125	873369	873371.048	monophasic	C25-C26	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+432.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	432.2558828125	885258	885260.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+437.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	437.2558828125	895498	895500.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+442.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	442.2558828125	905738	905740.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+447.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	447.2558828125	915978	915980.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+452.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	452.2558828125	926218	926220.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+457.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	457.2558828125	936458	936460.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+472.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	472.2558828125	967178	967180.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+477.2548828125	0.001	electrical_stimulation	SPESclin	n/a	n/a	477.2558828125	977418	977420.048	monophasic	C26-C27	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+483.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	483.45021875	990104	990106.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+488.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	488.45021875	1000344	1000346.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+493.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	493.45021875	1010584	1010586.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+498.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	498.45021875	1020824	1020826.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+503.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	503.45021875	1031064	1031066.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+508.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	508.45021875	1041304	1041306.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+513.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	513.45021875	1051544	1051546.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+518.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	518.45021875	1061784	1061786.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+523.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	523.45021875	1072024	1072026.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+528.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	528.45021875	1082264	1082266.048	monophasic	C27-C28	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+534.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	534.34914453125	1094345	1094347.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+539.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	539.34914453125	1104585	1104587.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+544.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	544.34914453125	1114825	1114827.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+549.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	549.34914453125	1125065	1125067.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+554.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	554.34914453125	1135305	1135307.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+559.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	559.34914453125	1145545	1145547.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+564.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	564.34914453125	1155785	1155787.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+569.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	569.34914453125	1166025	1166027.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+574.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	574.34914453125	1176265	1176267.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+579.34814453125	0.001	electrical_stimulation	SPESclin	n/a	n/a	579.34914453125	1186505	1186507.048	monophasic	C28-C29	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+585.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	585.45021875	1199000	1199002.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+590.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	590.45021875	1209240	1209242.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+595.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	595.45021875	1219480	1219482.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+600.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	600.45021875	1229720	1229722.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+605.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	605.45021875	1239960	1239962.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+610.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	610.45021875	1250200	1250202.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+615.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	615.45021875	1260440	1260442.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+620.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	620.45021875	1270680	1270682.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+625.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	625.45021875	1280920	1280922.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
+630.44921875	0.001	electrical_stimulation	SPESclin	n/a	n/a	630.45021875	1291160	1291162.048	monophasic	C29-C30	0.008	0.2	0.001	Stimulation intensity is suggested to be 0.008 A but may differ when applied in eloquent tissue
