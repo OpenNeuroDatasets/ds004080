@@ -1,0 +1,32 @@
+{
+    "Name": "CCEP ECoG dataset across age 4-51",
+    "BIDSVersion": "Brain Imaging Data Structure Specification v1.6.0",
+    "License": "CC0",
+    "Authors": [
+        "D. van Blooijs",
+        "M.A. van den Boom",
+        "J.F. van der Aar",
+        "G.J.M. Huiskamp",
+        "G. Castegnaro",
+        "M. Demuru",
+        "W.J.E.M. Zweiphenning",
+        "P. van Eijsden",
+        "K. J. Miller",
+        "F.S.S. Leijten",
+        "D. Hermes"
+    ],
+    "Acknowledgements": "The RESPect database group: K.P.J. Braun, C.H. Ferrier, T.A. Gebbink, P.H. Gosselaar, N.E.C. van Klink, M.A. van 't Klooster, J.M. Ophorst, P.C. van Rijen, E.V. Schaft, S.M.A. van der Salm, D. Sun, A. Velders and G.J.M. Zijlmans",
+    "HowToAcknowledge": "D. van Blooijs, M.A. van den Boom, J.F. van der Aar, G.J.M. Huiskamp, G. Castegnaro, M. Demuru, W.J.E.M. Zweiphenning, P. van Eijsden, K. J. Miller, F.S.S. Leijten, D. Hermes, 2021, The development of efficient communication in the human connectome, bioRxiv, https://doi.org/10.1101/2022.03.14.484297",
+    "Funding": [
+        "NIMH R01MH122258",
+        "Alexandre Suerman Stipendium 2015",
+        "EpilepsieNL #17-07"
+    ],
+    "ReferencesAndLinks": [
+        "see HowToAcknowledge"
+    ],
+    "EthicsApprovals": [
+        "This study was approved by the Medical Ethical Committee from the UMC Utrecht, The Netherlands"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004080.v1.0.2"
+}
