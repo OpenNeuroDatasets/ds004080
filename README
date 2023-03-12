@@ -1,7 +1,7 @@
 # Dataset description
 This dataset consists of 74 patients age 4-51 years old where Cortico-Cortical Evoked Potentials (CCEPs) were measured with Electro-CorticoGraphy (ECoG) during single pulse electrical stimulation. For a detailed description see:
 
-- D. van Blooijs, M.A. van den Boom, J.F. van der Aar, G.J.M. Huiskamp, G. Castegnaro, M. Demuru, W.J.E.M. Zweiphenning, P. van Eijsden, K. J. Miller, F.S.S. Leijten, D. Hermes, Developmental trajectory of transmission speed in the human brain, Nature Neuroscience (accepted)
+- Developmental trajectory of transmission speed in the human brain. D. van Blooijs*, M.A. van den Boom*, J.F. van der Aar, G.J.M. Huiskamp, G. Castegnaro, M. Demuru, W.J.E.M. Zweiphenning, P. van Eijsden, K. J. Miller, F.S.S. Leijten, D. Hermes, Nature Neuroscience, 2023, https://doi.org/10.1038/s41593-023-01272-0 *these authors contributed equally.
 
 This dataset is part of the RESPect (Registry for Epilepsy Surgery Patients) database, a dataset recorded at the University Medical Center of Utrecht, the Netherlands. The study was approved by the Medical Ethical Committee from the UMC Utrecht.
 
@@ -26,8 +26,8 @@ Electrode positions include Destrieux atlas labels that were estimated by runnin
 This dataset is made available under the Public Domain Dedication and License CC v1.0, whose full text can be found at 
 https://creativecommons.org/publicdomain/zero/1.0/. 
 We hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); 
-in particular, while not legally required, we hope that all users of the data will acknowledge by citing the following in any publication.
-Developmental trajectory of transmission speed in the human brain, D. van Blooijs, M.A. van den Boom, J.F. van der Aar, G.J.M. Huiskamp, G. Castegnaro, M. Demuru, W.J.E.M. Zweiphenning, P. van Eijsden, K. J. Miller, F.S.S. Leijten, D. Hermes, Nature Neuroscience (accepted)
+in particular, while not legally required, we hope that all users of the data will acknowledge by citing the following in any publication:
+Developmental trajectory of transmission speed in the human brain, D. van Blooijs, M.A. van den Boom, J.F. van der Aar, G.J.M. Huiskamp, G. Castegnaro, M. Demuru, W.J.E.M. Zweiphenning, P. van Eijsden, K. J. Miller, F.S.S. Leijten, D. Hermes, Nature Neuroscience, 2023, https://doi.org/10.1038/s41593-023-01272-0
 
 # Code
 Code to analyses these data is available at: https://github.com/MultimodalNeuroimagingLab/mnl_ccepAge
